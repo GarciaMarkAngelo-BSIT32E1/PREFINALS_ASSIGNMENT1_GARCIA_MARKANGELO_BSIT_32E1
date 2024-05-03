@@ -1,0 +1,6 @@
+@PREFINALS_ASSIGNMENT1_GARCIA_MARKANGELO_BSIT_32E1_HostAddress = http://localhost:5032
+
+GET {{PREFINALS_ASSIGNMENT1_GARCIA_MARKANGELO_BSIT_32E1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
